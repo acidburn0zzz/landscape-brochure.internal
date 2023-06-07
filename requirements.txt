@@ -1,4 +1,4 @@
-Flask==1.1.2
+Flask==2.2.5
 gunicorn[gevent]
 raven[flask]==6.10.0
 statsd==3.3.0
